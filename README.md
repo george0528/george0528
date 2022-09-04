@@ -1,4 +1,4 @@
-![名称未設定のデザイン](https://user-images.githubusercontent.com/79493776/188317486-4e9226d4-0c94-4075-a344-fc32d580b379.png)
+<!-- ![名称未設定のデザイン](https://user-images.githubusercontent.com/79493776/188317486-4e9226d4-0c94-4075-a344-fc32d580b379.png) -->
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate developer in Japan</h3>
 
