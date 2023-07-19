@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Richill](https://richill.life/)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://qiita.com/george0528](https://qiita.com/george0528)
 
